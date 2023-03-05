@@ -1,0 +1,162 @@
+[
+    {
+        "model": "authentication.user",
+        "pk": "1",
+        "fields": {
+            "id": "1",
+            "first_name": "Павел",
+            "last_name": "Никифоров",
+            "username": "pnikifirov",
+            "password": "pbkdf2_sha256$390000$anCxWL1pXM8RfQA4nr4L7f$y/NhUiXAY7Bxssg3NigKxJ3dskLmNeI+UHuRWlMyHAs=",
+            "role": "member",
+            "age": "21",
+            "locations": [
+                1
+            ]
+        }
+    },
+    {
+        "model": "authentication.user",
+        "pk": "2",
+        "fields": {
+            "id": "2",
+            "first_name": "Альбина",
+            "last_name": "Игнатьева",
+            "username": "abiba_1341",
+            "password": "pbkdf2_sha256$390000$LWnj3Bihp723SFtCYM6PL9$fmwu5ns3xqMMKSioJYLxz5n1gnkNRFjAqSuLLLjKQcM=",
+            "role": "moderator",
+            "age": "24",
+            "locations": [
+                3
+            ]
+        }
+    },
+    {
+        "model": "authentication.user",
+        "pk": "3",
+        "fields": {
+            "id": "3",
+            "first_name": "Иван",
+            "last_name": "Сысоев",
+            "username": "vanya777",
+            "password": "pbkdf2_sha256$390000$VVno5Q8ZuofSDXdrHUE9JY$aBUEBtn61i3Ay5JO3qgn4w06f08JSfoW6+jftWvVmwA=",
+            "role": "admin",
+            "age": "29",
+            "locations": [
+                8
+            ]
+        }
+    },
+    {
+        "model": "authentication.user",
+        "pk": "4",
+        "fields": {
+            "id": "4",
+            "first_name": "Марина",
+            "last_name": "Беркутова",
+            "username": "orlanfree",
+            "password": "pbkdf2_sha256$390000$JTBRRD7TcMrnhB4b9PPKmV$Mks4CBPuYvEnZBThCUkYS58Szj1klK1dSc8bsH3U9xA=",
+            "role": "moderator",
+            "age": "19",
+            "locations": [
+                10
+            ]
+        }
+    },
+    {
+        "model": "authentication.user",
+        "pk": "5",
+        "fields": {
+            "id": "5",
+            "first_name": "Галина",
+            "last_name": "Иванова",
+            "username": "galina_ivanova",
+            "password": "pbkdf2_sha256$390000$KTr0ZB0a99Gk7laEFpoRcV$PBXB62QDCP7zezgf53RkX85CnupMzvzTxUE5V871F10=",
+            "role": "member",
+            "age": "41",
+            "locations": [
+                2
+            ]
+        }
+    },
+    {
+        "model": "authentication.user",
+        "pk": "6",
+        "fields": {
+            "id": "6",
+            "first_name": "Петр",
+            "last_name": "Бойченко",
+            "username": "petr_bo",
+            "password": "pbkdf2_sha256$390000$b7QwoN4Cv6J84aotbem4i8$TJxEe4lip5iqNG0kYqG/yep2kYVr6kisrSxH9nMyxAY=",
+            "role": "member",
+            "age": "37",
+            "locations": [
+                4
+            ]
+        }
+    },
+    {
+        "model": "authentication.user",
+        "pk": "7",
+        "fields": {
+            "id": "7",
+            "first_name": "Никита",
+            "last_name": "",
+            "username": "nikitapro",
+            "password": "pbkdf2_sha256$390000$lAhSJpqGrrrCQFdfqRhivm$KAbzOvZyXDoT4CIE1975/ZIwfvlz41nwQS2Djk0WOBY=",
+            "role": "member",
+            "age": "26",
+            "locations": [
+                7
+            ]
+        }
+    },
+    {
+        "model": "authentication.user",
+        "pk": "8",
+        "fields": {
+            "id": "8",
+            "first_name": "Виолетта",
+            "last_name": "Петушок",
+            "username": "riverna",
+            "password": "pbkdf2_sha256$390000$sVbgZ7XpWK3l7ueFAuqhSs$4sO5pyslDec6GPlg+u1vX/HgxLcL2L900dPqrSqU4CQ=",
+            "role": "member",
+            "age": "24",
+            "locations": [
+                5
+            ]
+        }
+    },
+    {
+        "model": "authentication.user",
+        "pk": "9",
+        "fields": {
+            "id": "9",
+            "first_name": "Гульнара",
+            "last_name": "Ибрагимова",
+            "username": "gulnara321",
+            "password": "pbkdf2_sha256$390000$0gpES3h2OdDSNn2h6Mnqyp$j7uIwaNexmoAtquMRDu2TpbqAkFBoRI27j35VnSeBlY=",
+            "role": "moderator",
+            "age": "22",
+            "locations": [
+                9
+            ]
+        }
+    },
+    {
+        "model": "authentication.user",
+        "pk": "10",
+        "fields": {
+            "id": "10",
+            "first_name": "Борис",
+            "last_name": "Зайка",
+            "username": "dragon84",
+            "password": "pbkdf2_sha256$390000$5GmYV6DctXrdv72tSOWMWl$e+wax8WsqT6hk9ZPdjGqjsG1M5GvSiYoc7MF+7mc8UQ=",
+            "role": "member",
+            "age": "35",
+            "locations": [
+                6
+            ]
+        }
+    }
+]
